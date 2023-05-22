@@ -2,6 +2,10 @@
 
 有关末日三问及其衍生作品的AIGC项目目录 AIGC Projects related to Sukasuka series
 
+本目录并非实时更新，若您想补充新项目，可提交pr
+
+欢迎加入中珂院炼金分院QQ群715311859
+
 ## 项目列表
 
 ### 图片生成
@@ -115,6 +119,9 @@
 
 [So-Vits-SukaSuka-Chtholly by overload7015](https://huggingface.co/overload7015/So-Vits-SukaSuka-Chtholly)
 
+[Sovits 4.0 珂朵莉 by Aya](https://note.ay1.us/#/chtholly-sovits)
+
+
 ## 其他
 
 ### 数据集相关
@@ -134,6 +141,7 @@ ChatGPT/c.ai + VITS = Conversational Chtholly, 简易黄金妖精召唤术 Simpl
 ### Pantheon
 
 [Alpha](https://github.com/alphaply), 
+[Ayatale](https://github.com/Brx86), 
 [Carzit](https://github.com/Carzit), 
 [Hecate](https://github.com/Hecate2), 
 [mio](https://github.com/mio2333), 
