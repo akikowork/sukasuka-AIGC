@@ -117,6 +117,8 @@
 
 ### 语音生成
 
+[基于espnet的Chtholly Vits在线模型](https://huggingface.co/mio/chtholly)
+
 [So-Vits-SukaSuka-Chtholly by overload7015](https://huggingface.co/overload7015/So-Vits-SukaSuka-Chtholly)
 
 [Sovits 4.0 珂朵莉 by Aya](https://note.ay1.us/#/chtholly-sovits)
