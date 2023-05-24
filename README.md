@@ -121,6 +121,8 @@
 
 [Sovits 4.0 珂朵莉 by Aya](https://note.ay1.us/#/chtholly-sovits)
 
+[Chtholly TTS model using ESPnet, by mio](https://huggingface.co/mio/chtholly)
+
 
 ## 其他
 
