@@ -140,6 +140,13 @@
 
 ChatGPT/c.ai + VITS = Conversational Chtholly, 简易黄金妖精召唤术 Simple Invocation of Repurakaan
 
+### 《末日有空|末日再见》AI绘画 分享地址
+[Carzit](https://space.bilibili.com/283303951/article)     
+
+[Alpha](https://www.pixiv.net/users/85167902)     
+
+[珂学时第一生产力](https://space.bilibili.com/32862733/video)
+
 ### Pantheon
 
 [Alpha](https://github.com/alphaply), 
