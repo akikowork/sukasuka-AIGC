@@ -111,6 +111,12 @@
 
 [SukaSuka Welliam-lora(末日三问 威廉) by Carzit](https://civitai.com/models/53245/sukasuka-welliam-lora)
 
+莉莉娅
+
+![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e0cf4bde-a8b0-4f38-bd85-88ca29a4fe50/width=1024/00020-3755893453.jpeg)
+![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/16ab305c-c2b8-4a57-9bcd-fec24539c4e4/width=1024/00033-1589724727.jpeg)
+
+[SukaSuka Welliam-lora(末日三问 莉莉娅/リーリァ) by Carzit](https://civitai.com/models/78149/sukasuka-lilia-lora)
 ### 文字生成
 
 [AI珂朵莉(EN), Character.ai](https://c.ai/c/LMri6f9uZj2p17QoKDiEvDw1wAk2AUoi1C02V6HHU8E)
