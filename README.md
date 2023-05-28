@@ -20,7 +20,7 @@
 [Chtholly Nota Seniorious (SukaSuka) by hortacreator](https://civitai.com/models/18201/chtholly-nota-seniorious-sukasuka)
 
 ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/379bc7a1-3fb5-449f-9f8c-4ed7d780f622/width=320/00008-225880729.jpeg)
-![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/dbcb5a0e-0d22-4517-bb96-842665a5d97c/width=320/00010-1826602368.jpeg)
+![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4ed267c6-c5f1-4b02-b74f-6bf7a1708472/width=320/00023-895852794.jpeg)
 
 [Sukasuka Chtholly-lora(珂朵莉/クトリ) by Carzit](https://civitai.com/models/41554/sukasuka-chtholly-lora)
 
@@ -113,8 +113,8 @@
 
 莉莉娅
 
-![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e0cf4bde-a8b0-4f38-bd85-88ca29a4fe50/width=1024/00020-3755893453.jpeg)
-![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/16ab305c-c2b8-4a57-9bcd-fec24539c4e4/width=1024/00033-1589724727.jpeg)
+![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/e0cf4bde-a8b0-4f38-bd85-88ca29a4fe50/width=320/00020-3755893453.jpeg)
+![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/16ab305c-c2b8-4a57-9bcd-fec24539c4e4/width=320/00033-1589724727.jpeg)
 
 [SukaSuka Welliam-lora(末日三问 莉莉娅/リーリァ) by Carzit](https://civitai.com/models/78149/sukasuka-lilia-lora)
 ### 文字生成
