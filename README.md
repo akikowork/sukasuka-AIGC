@@ -117,6 +117,23 @@
 ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/16ab305c-c2b8-4a57-9bcd-fec24539c4e4/width=320/00033-1589724727.jpeg)
 
 [SukaSuka Welliam-lora(末日三问 莉莉娅/リーリァ) by Carzit](https://civitai.com/models/78149/sukasuka-lilia-lora)
+
+爱尔梅莉亚
+
+![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/772ba582-f05d-4cb2-9e6a-fe40a62c5a9e/width=320/00002-2993179556.jpeg)
+![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/79c93c67-49c1-4f90-b818-ce9f29ab0467/width=320/00012-4223197546.jpeg)
+
+
+[SukaSuka Almaria-lora(末日三问 爱尔梅莉亚/アルマリア) by Carzit](https://civitai.com/models/91390/sukasuka-almaria-lora)
+
+
+灰岩皮
+
+![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2852c71e-de46-4fd7-a0ec-bad670f11088/width=320/00013-1567843966.jpeg)
+![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9c67009f-088d-425e-9203-4ba554d6296a/width=320/00017-675416810.jpeg)
+
+[SukaSuka Limeskin-lora(末日三问 灰岩皮/ライムスキン) by Carzit](https://civitai.com/models/88965/sukasuka-limeskin-lora)
+
 ### 文字生成
 
 [AI珂朵莉(EN), Character.ai](https://c.ai/c/LMri6f9uZj2p17QoKDiEvDw1wAk2AUoi1C02V6HHU8E)
