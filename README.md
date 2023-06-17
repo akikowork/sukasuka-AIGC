@@ -140,6 +140,10 @@
 
 该数据集包含了《末日时在做什么？有没有空？可以来拯救吗？》全角色的语音数据,包含wav文件和对应的日语文本台词.
 
+[sukasuka角色图像数据集 by Carzit](https://huggingface.co/datasets/Carzit/SukaSuka-image-dataset)
+
+该数据集包含了《末日时在做什么？有没有空？可以来拯救吗？》大部分主要角色角色的图像数据与画面内容标定。
+
 ### 综合项目
 
 [ChatChtholly by Carzit](https://github.com/Carzit/ChatChtholly)
