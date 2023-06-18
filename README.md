@@ -31,7 +31,9 @@
 
 ![](https://huggingface.co/ahpha/chtholly-lora/resolve/main/pictures/00060-1065208656.png)
 ![](https://huggingface.co/ahpha/chtholly-lora/resolve/main/pictures/00078-3308868487.png)
+
 ![](https://huggingface.co/ahpha/chtholly-lora/resolve/main/pictures/00085-2917489576.png)
+![](https://huggingface.co/ahpha/chtholly-lora/resolve/main/pictures/00080-1445261270.png)
 
 [此为alpha的第二版本lora模型](https://huggingface.co/ahpha/chtholly-lora)
 
