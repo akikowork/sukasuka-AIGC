@@ -29,6 +29,13 @@
 
 [珂朵莉 - Chtholly Nota Seniorious 末日三问 sukasuka by Alphaply](https://civitai.com/models/41844/chtholly-nota-seniorious-sukasuka)
 
+![](https://huggingface.co/ahpha/chtholly-lora/resolve/main/pictures/00060-1065208656.png)
+![](https://huggingface.co/ahpha/chtholly-lora/resolve/main/pictures/00078-3308868487.png)
+![](https://huggingface.co/ahpha/chtholly-lora/resolve/main/pictures/00085-2917489576.png)
+
+[此为alpha的第二版本lora模型](https://huggingface.co/ahpha/chtholly-lora)
+
+
 奈芙莲
 
 ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/20e346cc-69df-4119-53e8-20d48cacbb00/width=320/241120.jpeg)
