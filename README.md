@@ -50,12 +50,22 @@
 
 [奈芙莲-末日三问 sukasuka Nephren Ruq Insania by Alphaply](https://civitai.com/models/41424/sukasuka-nephren-ruq-insania)
 
+![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/53a7d97c-e620-4d57-89fd-d76344f1671b/width=320/00002-715114483.jpeg)
+![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/30d3025b-d2ac-471f-a809-bd358e75c037/width=320/00025-667056468.jpeg)
+
+[SukaSuka Nephren-lora(末日三问 奈芙莲/ネフレン) by Carzit](https://civitai.com/models/105942)
+
 艾瑟雅
 
 ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b3c3efd7-ce83-493a-7989-81f4906c6500/width=320/00109-3167113863.jpeg)
 ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/55856cf9-c095-40d0-279e-61d17a2db300/width=320/00110-3167113863.jpeg)
 
 [艾瑟雅 - 末日三问 sukasuka Ithea Myse Valgulious by Alphaply](https://civitai.com/models/41533/sukasuka-ithea-myse-valgulious)
+
+![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3ad5447c-b028-4404-935b-8d441d6a2563/width=320/00014-3758405047.jpeg)
+![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/97cd595d-c3cd-4ac7-a764-548bcd3c0d54/width=320/00011-2588858646.jpeg)
+
+[SukaSuka Ithea-lora(末日三问 艾瑟雅/アイセア) by Carzit](https://civitai.com/models/104657/sukasuka-ithea-lora)
 
 菈琪旭
 
