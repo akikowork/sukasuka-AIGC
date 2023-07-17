@@ -145,6 +145,12 @@
 
 [SukaSuka Almaria-lora(末日三问 爱尔梅莉亚/アルマリア) by Carzit](https://civitai.com/models/91390/sukasuka-almaria-lora)
 
+史旺
+
+![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/518e9180-a204-426e-bb55-7048a4d03ffc/width=320/00012-3019359952.jpeg)
+![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/8f5e910f-8e88-483b-af4b-4f389f84d633/width=320/00028-2674951239.jpeg)
+
+[SukaSuka Souwong-lora(末日三问 史旺/スウォン) by Carzit](https://civitai.com/models/110200/sukasuka-souwong-lora)
 
 灰岩皮
 
