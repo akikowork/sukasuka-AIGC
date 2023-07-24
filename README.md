@@ -32,6 +32,7 @@
 ![](https://huggingface.co/ahpha/chtholly-lora/resolve/main/pictures/00060-1065208656.png)
 ![](https://huggingface.co/ahpha/chtholly-lora/resolve/main/pictures/00078-3308868487.png)
 
+
 ![](https://huggingface.co/ahpha/chtholly-lora/resolve/main/pictures/00085-2917489576.png)
 ![](https://huggingface.co/ahpha/chtholly-lora/resolve/main/pictures/00080-1445261270.png)
 
@@ -130,12 +131,11 @@
 
 [SukaSuka Welliam-lora(末日三问 威廉) by Carzit](https://civitai.com/models/53245/sukasuka-welliam-lora)
 
-![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/aaca4819-5743-4981-d025-30735d4a8700/width=320/00068-669366528.jpeg)
-![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/606d1a5b-11c0-4a32-7fef-9c33c1515d00/width=320/00046-1493103604.jpeg)
 
-[威廉 - 末日三问 Willem Kmetsch-sukasuka) by Alpha](https://civitai.com/models/115316?modelVersionId=124739)
 ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d9d6e6f5-affe-4a85-b6c9-1f355c885a6c/width=450/00019-1703468456.jpeg)
 ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/dfa1533c-d7a5-425b-ba78-897d54af600e/width=450/00018-1703468456.jpeg)
+
+[威廉 - 末日三问 Willem Kmetsch-sukasuka) by Alpha](https://civitai.com/models/115316?modelVersionId=124739)
 
 
 莉莉娅
