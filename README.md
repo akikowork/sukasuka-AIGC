@@ -24,19 +24,12 @@
 
 [Sukasuka Chtholly-lora(珂朵莉/クトリ) by Carzit](https://civitai.com/models/41554/sukasuka-chtholly-lora)
 
-![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d88ee99b-1174-4c2e-19f1-360af7a12500/width=320/00023-1576306018.jpeg)
-![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/82fee8aa-8edc-4e08-400b-a780a3164e00/width=320/00001-3650914730.jpeg)
+![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f9dd3ae7-3155-4356-a7a3-a1852a7c1278/width=450/00012-542258780.jpeg)
+![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/cc498514-e698-4d3e-86e4-63e38b417147/width=450/00012-2621141919.jpeg)
 
-[珂朵莉 - Chtholly Nota Seniorious 末日三问 sukasuka by Alphaply](https://civitai.com/models/41844/chtholly-nota-seniorious-sukasuka)
-
-![](https://huggingface.co/ahpha/chtholly-lora/resolve/main/pictures/00060-1065208656.png)
-![](https://huggingface.co/ahpha/chtholly-lora/resolve/main/pictures/00078-3308868487.png)
+[珂朵莉 - Chtholly Nota Seniorious 末日三问 sukasuka by Alphaply](https://civitai.com/models/41844?modelVersionId=129534)
 
 
-![](https://huggingface.co/ahpha/chtholly-lora/resolve/main/pictures/00085-2917489576.png)
-![](https://huggingface.co/ahpha/chtholly-lora/resolve/main/pictures/00080-1445261270.png)
-
-[此为alpha的第二版本lora模型](https://huggingface.co/ahpha/chtholly-lora)
 
 
 奈芙莲
