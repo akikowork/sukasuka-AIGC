@@ -125,8 +125,8 @@
 [SukaSuka Welliam-lora(末日三问 威廉) by Carzit](https://civitai.com/models/53245/sukasuka-welliam-lora)
 
 
-![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d9d6e6f5-affe-4a85-b6c9-1f355c885a6c/width=450/00019-1703468456.jpeg)
-![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/dfa1533c-d7a5-425b-ba78-897d54af600e/width=450/00018-1703468456.jpeg)
+![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d9d6e6f5-affe-4a85-b6c9-1f355c885a6c/width=320/00019-1703468456.jpeg)
+![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/dfa1533c-d7a5-425b-ba78-897d54af600e/width=320/00018-1703468456.jpeg)
 
 [威廉 - 末日三问 Willem Kmetsch-sukasuka) by Alpha](https://civitai.com/models/115316?modelVersionId=124739)
 
