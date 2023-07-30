@@ -24,8 +24,8 @@
 
 [Sukasuka Chtholly-lora(珂朵莉/クトリ) by Carzit](https://civitai.com/models/41554/sukasuka-chtholly-lora)
 
-![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f9dd3ae7-3155-4356-a7a3-a1852a7c1278/width=450/00012-542258780.jpeg)
-![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/cc498514-e698-4d3e-86e4-63e38b417147/width=450/00012-2621141919.jpeg)
+![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/f9dd3ae7-3155-4356-a7a3-a1852a7c1278/width=320/00012-542258780.jpeg)
+![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/cc498514-e698-4d3e-86e4-63e38b417147/width=320/00012-2621141919.jpeg)
 
 [珂朵莉 - Chtholly Nota Seniorious 末日三问 sukasuka by Alphaply](https://civitai.com/models/41844?modelVersionId=129534)
 
