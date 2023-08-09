@@ -39,8 +39,8 @@
 
 [Nephren Ruq Insania (SukaSuka) by hortacreator](https://civitai.com/models/18882/nephren-ruq-insania-sukasuka)
 
-![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/101066d4-9079-4dfa-fbc0-ee5e3c4dad00/width=320/00074-3167113863.jpeg)
-![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d5edcd86-cabf-448a-14ec-01581ee5ad00/width=320/00064-3167113863.jpeg)
+![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/9fe78854-53fe-454c-a67c-5e9133f68997/width=320/00005-1415796450.jpeg)
+![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3c196295-a556-4502-9e17-7522872d9ddd/width=320/00021-1297891397.jpeg)
 
 [奈芙莲-末日三问 sukasuka Nephren Ruq Insania by Alphaply](https://civitai.com/models/41424/sukasuka-nephren-ruq-insania)
 
