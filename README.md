@@ -51,8 +51,7 @@
 
 艾瑟雅
 
-![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b3c3efd7-ce83-493a-7989-81f4906c6500/width=320/00109-3167113863.jpeg)
-![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/55856cf9-c095-40d0-279e-61d17a2db300/width=320/00110-3167113863.jpeg)
+![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3c2ef59c-a344-49ce-a237-4dba59c3fd98/width=640/00052-2633495243.jpeg)
 
 [艾瑟雅 - 末日三问 sukasuka Ithea Myse Valgulious by Alphaply](https://civitai.com/models/41533/sukasuka-ithea-myse-valgulious)
 
@@ -174,6 +173,9 @@
 
 
 ## 其他
+
+### 珂研
+
 
 ### 数据集相关
 
