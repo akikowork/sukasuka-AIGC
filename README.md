@@ -175,7 +175,7 @@
 ## 其他
 
 ### 珂研
-
+[多人图出图指南](https://github.com/akikowork/sukasuka-AIGC/blob/main/how-to-generate-latentcouple.md)
 
 ### 数据集相关
 
