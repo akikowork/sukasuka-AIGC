@@ -104,8 +104,8 @@
 
 妮戈兰
 
-![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/46809a19-f2a5-49bf-f9b4-96be4af82300/width=320/nigelanLORA-000003.jpeg)
-![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/b69409a1-4473-435a-26dd-9316064be600/width=320/00001-3810073025.jpeg)
+![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/bc643b40-84b2-42b1-a8d0-8466470f7525/width=320/00013-2777044074.jpeg)
+![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/d981218d-7007-4b2c-b238-30b842b6ea77/width=320/00008-3542557819.jpeg)
 
 [妮戈兰 - 末日三问 Naigurato Asutarutosu - sukasuka by Alphaply](https://civitai.com/models/47430/naigurato-asutarutosu-sukasuka)
 
