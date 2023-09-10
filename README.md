@@ -111,8 +111,7 @@
 
 艾陆可
 
-![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/db8807d9-6c74-4609-f9ab-d2f81ad3b200/width=320/00013-1432516211.jpeg)
-![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/05f4f7c9-9912-492b-f6ae-daa6d9265400/width=320/00020-1837580478.jpeg)
+![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/1f299580-c3e2-4651-b7a5-b45c8753d0d7/width=640/00052-685125353.jpeg)
 
 [艾陆可 Elq Hrqstn, Eruku Harukusuten 末日三问 sukasuka by Alphaply](https://civitai.com/models/41793/elq-hrqstn-eruku-harukusuten-sukasuka)
 
