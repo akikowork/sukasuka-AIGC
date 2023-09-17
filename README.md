@@ -81,6 +81,11 @@
 
 [SukaSuka Tiatto-lora(末日三问 缇亚忒/ティアット) by Carzit](https://civitai.com/models/57117/sukasuka-tiatto-lora)
 
+![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2b22d21d-e346-41bd-ae8f-6e357f4b3ae7/width=320/00012-490731663.jpeg)   
+![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/435e650d-9f95-4c0c-8c4e-cf8dcebefee1/width=320/00002-1937597118.jpeg)   
+
+[SukaSuka Tiatto-lora(末日三问 缇亚忒/ティアット) by Alpha](https://civitai.com/models/147205?modelVersionId=164132)
+
 潘丽宝
 
 ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c9e61ecf-868d-4083-d886-43ab6279dd00/width=320/00093-11824400.jpeg)
