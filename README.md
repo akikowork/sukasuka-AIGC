@@ -91,7 +91,11 @@
 ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/c9e61ecf-868d-4083-d886-43ab6279dd00/width=320/00093-11824400.jpeg)
 ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/dbd504d3-9faa-4976-fd81-251ab2f1be00/width=320/00096-11824403.jpeg)
 
-[SukaSuka Panibaru-lora(末日三问 潘丽宝/パ二バル) by Carzit](https://civitai.com/models/56295/sukasuka-panibaru-lora)
+[SukaSuka Panibaru-lora(末日三问 潘丽宝/パ二バル) by Carzit](https://civitai.com/models/56295/sukasuka-panibaru-lora)   
+
+![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4cf51b04-6d31-4bdb-8d75-68b7316cebd1/width=640/00035-3210121530.jpeg)
+
+[潘丽宝 - 末日三问 sukasuka Panibaru Noku Katena by Alpha](https://civitai.com/models/149724?modelVersionId=167280)
 
 诺夫特
 
