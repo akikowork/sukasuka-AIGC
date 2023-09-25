@@ -67,12 +67,20 @@
 
 [SukaSuka Rakishu-lora(末日三问 菈琪旭/ラキシュ) by Carzit](https://civitai.com/models/57179/sukasuka-rakishu-lora)
 
+![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/826b0242-08e9-4c6d-9bc9-833b7dcca5a9/width=640/00073-358628406.jpeg)
+
+[SukaSuka Rakishu-lora(末日三问 菈琪旭/ラキシュ) by Carzit](https://civitai.com/models/151298/rakishu-nikusu-seniorisu-sukasuka)
+
 可蓉
 
 ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/aaa1224e-9e36-4402-8bfc-f6d35b4dca1a/width=320/00015-2875195662.jpeg)
 ![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/4ad2c268-6f87-4abc-8ddf-13b841ddc8a5/width=320/00097-1288077901.jpeg)
 
 [SukaSuka Koron-lora(末日三问 可蓉/コロン) by Carzit](https://civitai.com/models/57160/sukasuka-koron-lora)
+
+![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/3b5d4ec9-0423-4ca5-b214-8c93d132fc37/width=640/00049-3374870987.jpeg)
+
+[SukaSuka Koron-lora(末日三问 可蓉/コロン) by Alpha](https://civitai.com/models/151288/koron-rin-purugatorio-sukasuka)
 
 缇亚忒
 
@@ -81,10 +89,9 @@
 
 [SukaSuka Tiatto-lora(末日三问 缇亚忒/ティアット) by Carzit](https://civitai.com/models/57117/sukasuka-tiatto-lora)   
 
-![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/2b22d21d-e346-41bd-ae8f-6e357f4b3ae7/width=320/00012-490731663.jpeg)
-![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/435e650d-9f95-4c0c-8c4e-cf8dcebefee1/width=320/00002-1937597118.jpeg)
+![](https://image.civitai.com/xG1nkqKTMzGDvpLrqFT7WA/ea489b86-59ad-4ad6-81c8-2695f87a2f8b/width=640/00002-871899266.jpeg)
 
-[SukaSuka Tiatto-lora(末日三问 缇亚忒/ティアット) by Alpha](https://civitai.com/models/147205?modelVersionId=164132)
+[SukaSuka Tiatto-lora(末日三问 缇亚忒/ティアット) by Alpha](https://civitai.com/models/151296/tiatto-shiba-igunareo-sukasuka)
 
 潘丽宝
 
